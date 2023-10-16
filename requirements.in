@@ -1,4 +1,4 @@
 gixy
-pyparsing==2.4.7
+pyparsing==3.1.1
 lxml
 cssselect
